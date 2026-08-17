@@ -1,6 +1,6 @@
 # ✍️ Generative AI Paragraph Writer
 
-An AI-powered app that write paragraphs based on user prompts. Built using Google Gamini Language Models (LLMs), 
+An AI-powered app that write paragraphs based on user prompts. 
 
 ## 🚀 Quick Start
 
